@@ -1,0 +1,3 @@
+mlflow_host: "http://localhost"
+mlflow_port: 5000
+experiment_name: "my_experiment"

@@ -1,0 +1,23 @@
+## data analysis libraries
+pandas
+numpy
+scipy
+## computer vision libraries
+pillow
+opencv-python
+## machine learning libraries
+scikit-learn
+xgboost
+torch
+torchvision
+## natural language processing libraries
+openai>=1.0.0
+transformers
+### visualization libraries
+matplotlib
+seaborn
+### other useful libraries
+jupyterlab
+pyyaml
+## experiment tracking
+mlflow
